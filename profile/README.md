@@ -23,20 +23,38 @@
 |Container     |`Docker`|
 |API     |`Whisper API` `Firebase FCM` `Kakao Map API`|
 |Server     |`NGINX` `Spring Boot`|
-|ETC     |`Figma` `Notion`|
 |Storage     |`AWS S3` `MySQL` `Redis`|
+|ETC     |`Figma` `Notion`|
 
 ## 🏛️ 아키텍쳐
 <img width="4068" alt="아키텍쳐" src="https://github.com/user-attachments/assets/e7ed6bd4-036e-4164-ab0c-e486ffbe153d">
 
 ## 🌟 서비스 기능
+### 약 일정 관리 및 기록
+<img width="300" src="https://github.com/user-attachments/assets/949b2364-35d3-4880-86bc-b55229e4a8d3" />  <img width="300" src="https://github.com/user-attachments/assets/1009df61-5d27-498d-a74e-65e54403f98f" /> <img width="300" src="https://github.com/user-attachments/assets/a0a4df1b-99fa-492f-a5b9-1ade63545923" />
 
-- __약 일정 관리 및 기록__: 약 복용 스케줄 설정 및 복약 기록을 통해 케어 맴버가 약을 놓치지 않고 복용할 수 있도록 지원합니다.
-- __병원 일정 관리 및 기록__: 케어 맴버의 병원 예약 일정 관리와 방문 기록을 한눈에 확인할 수 있는 기능을 제공합니다.
-- __음성 메시지 기능__: 케어 맴버와 음성 메시지를 통해 편리한 커뮤니케이션 할 수 있는 도구입니다.
-- __음성 메시지 텍스트 변환 (ASR)__: 녹음된 음성을 자동으로 텍스트로 변환하여 편리성을 높입니다.
-- __건강 커뮤니티__: 다양한 건강 관련 주제에 대해 다른 사용자들과 정보를 공유하고 소통할 수 있는 커뮤니티 기능입니다.
-- __사용자 계정 관리__: 보호자와 케어 멤버를 위한 손쉬운 회원가입, 계정 관리 및 탈퇴 기능을 제공합니다.
+약 복용 스케줄 설정 및 복약 기록을 통해 케어 맴버가 약을 놓치지 않고 복용할 수 있도록 지원합니다.
+
+### 병원 일정 관리 및 기록
+<img width="300" src="https://github.com/user-attachments/assets/b0f89c28-036a-46b2-b552-c6163a2d7293" />
+<img width="300" src="https://github.com/user-attachments/assets/69cf6962-a3a9-44b2-b3b3-ad24daa002c8" />
+
+케어 맴버의 병원 예약 일정 관리와 방문 기록을 한눈에 확인할 수 있는 기능을 제공합니다.
+
+### 음성 메시지 기능
+<img width="300" src="https://github.com/user-attachments/assets/5b8d4472-ae17-403d-9db7-e433882e7425" />
+<img width="300" src="https://github.com/user-attachments/assets/70152cc3-c586-4790-8fa7-15ea2e90e6ea" />
+
+케어 맴버와 음성 메시지를 통해 편리한 커뮤니케이션 할 수 있는 도구입니다.
+
+### 건강 커뮤니티
+<img width="300" src="https://github.com/user-attachments/assets/0ac547f8-108b-4cd0-8f99-441202358a2c" />
+<img width="300" src="https://github.com/user-attachments/assets/c11958cb-6fd4-40ae-b4d6-82a55574ba31" />
+<img width="300" src="https://github.com/user-attachments/assets/34bfbd4e-bdbe-4b2b-af94-78bd0b652cba" />
+
+다양한 건강 관련 주제에 대해 다른 사용자들과 정보를 공유하고 소통할 수 있는 커뮤니티 기능입니다.
+
+
 
 ## 🧑🏻‍💻 팀원 소개
 | 최민수 | 김희진 | 유호진 | 임덕윤 | 정성훈 |
