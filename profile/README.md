@@ -72,6 +72,10 @@
 <img width="300" src="https://github.com/user-attachments/assets/e0b44219-ec51-4411-bb5e-369bd0cd03c8" />
 <img width="300" src="https://github.com/user-attachments/assets/66d9bedf-3381-4f2b-ae2e-b585c39d262e" />
 
+## 🎥 Demo
+https://youtu.be/HibTS8bE_0U?si=hZPqmDjjZg0FjVPl
+
+
 ## 🧑🏻‍💻 팀원 소개
 | 최민수 | 김희진 | 유호진 | 임덕윤 | 정성훈 |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
