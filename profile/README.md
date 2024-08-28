@@ -31,46 +31,46 @@
 
 ## 🌟 서비스 기능
 ### 약 일정 관리 및 기록
+약 복용 스케줄 설정 및 복약 기록을 통해 케어 맴버가 약을 놓치지 않고 복용할 수 있도록 지원합니다.
+
 <img width="300" src="https://github.com/user-attachments/assets/949b2364-35d3-4880-86bc-b55229e4a8d3" />  
 <img width="300" src="https://github.com/user-attachments/assets/a0a4df1b-99fa-492f-a5b9-1ade63545923" />
 <img width="300" src="https://github.com/user-attachments/assets/c4fff0b6-5aa5-493c-953f-a00c38f27567" />
 
-약 복용 스케줄 설정 및 복약 기록을 통해 케어 맴버가 약을 놓치지 않고 복용할 수 있도록 지원합니다.
-
 ### 처방전 기능
+멀리 떨어진 보호자가 쉽게 환자의 복용일정을 기입하도록 도와줍니다.
+
 <img width="300" src="https://github.com/user-attachments/assets/b6c7be46-9868-4fe5-a6a8-eed2032deb50" />  
 <img width="300" src="https://github.com/user-attachments/assets/1009df61-5d27-498d-a74e-65e54403f98f" />
 
-멀리 떨어진 보호자가 쉽게 환자의 복용일정을 기입하도록 도와줍니다.
-
 ### 병원 일정 관리 및 기록
+케어 맴버의 병원 예약 일정 관리와 방문 기록을 한눈에 확인할 수 있는 기능을 제공합니다.
+
 <img width="300" src="https://github.com/user-attachments/assets/b0f89c28-036a-46b2-b552-c6163a2d7293" />
 <img width="300" src="https://github.com/user-attachments/assets/69cf6962-a3a9-44b2-b3b3-ad24daa002c8" />
 <img width="300" src="https://github.com/user-attachments/assets/0593d28e-80e3-4f48-b6f7-55974ae0237c" />
 
-케어 맴버의 병원 예약 일정 관리와 방문 기록을 한눈에 확인할 수 있는 기능을 제공합니다.
-
 ### 음성 메시지 기능
+케어 맴버와 음성 메시지를 통해 편리한 커뮤니케이션 할 수 있는 도구입니다.
+
 <img width="300" src="https://github.com/user-attachments/assets/0234b84f-3b9c-49cf-82ff-9230afd5c0a0" />
 <img width="300" src="https://github.com/user-attachments/assets/5b8d4472-ae17-403d-9db7-e433882e7425" />
 <img width="300" src="https://github.com/user-attachments/assets/70152cc3-c586-4790-8fa7-15ea2e90e6ea" />
 
-케어 맴버와 음성 메시지를 통해 편리한 커뮤니케이션 할 수 있는 도구입니다.
-
 ### 건강 커뮤니티
+다양한 건강 관련 주제에 대해 다른 사용자들과 정보를 공유하고 소통할 수 있는 커뮤니티 기능입니다.
+
 <img width="300" src="https://github.com/user-attachments/assets/0ac547f8-108b-4cd0-8f99-441202358a2c" />
 <img width="300" src="https://github.com/user-attachments/assets/c11958cb-6fd4-40ae-b4d6-82a55574ba31" />
 <img width="300" src="https://github.com/user-attachments/assets/34bfbd4e-bdbe-4b2b-af94-78bd0b652cba" />
 
-다양한 건강 관련 주제에 대해 다른 사용자들과 정보를 공유하고 소통할 수 있는 커뮤니티 기능입니다.
-
 ### 알림 기능
+환자가 병원을 방문하지 않거나 약을 복용하지 않으면 보호자에게 알림을 전달합니다. 또한 보호자는 커뮤니티에 대한 알림을 받을 수 있습니다.
+
 <img width="300" src="https://github.com/user-attachments/assets/fb0845d3-0990-406f-9f04-7bac22299468" />
 <img width="300" src="https://github.com/user-attachments/assets/fa1e1c94-f4e6-4481-8b4d-2ad19900136f" />
 <img width="300" src="https://github.com/user-attachments/assets/e0b44219-ec51-4411-bb5e-369bd0cd03c8" />
 <img width="300" src="https://github.com/user-attachments/assets/66d9bedf-3381-4f2b-ae2e-b585c39d262e" />
-
-환자가 병원을 방문하지 않거나 약을 복용하지 않으면 보호자에게 알림을 전달합니다. 또한 보호자는 커뮤니티에 대한 알림을 받을 수 있습니다.
 
 ## 🧑🏻‍💻 팀원 소개
 | 최민수 | 김희진 | 유호진 | 임덕윤 | 정성훈 |
