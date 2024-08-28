@@ -19,8 +19,9 @@
 |IDE     |`VScode` `Android Studio` `Intellij IDEA ULTIMATE`|
 |Source Code Management     |`Git` `Github`|
 |CI/CD Pipeline     |`Github Actions` `AWS CodeDeploy`|
-|Cloud     |`Whisper API` `Firebase FCM` `AWS EC2` `AWS Elastic Load Balancing` `AWS Cloud-Front`|
+|Cloud     |`AWS EC2` `AWS Elastic Load Balancing` `AWS Cloud-Front`|
 |Container     |`Docker`|
+|API     |`Whisper API` `Firebase FCM` `Kakao Map API`|
 |Server     |`NGINX` `Spring Boot`|
 |ETC     |`Figma` `Notion`|
 |Storage     |`AWS S3` `MySQL` `Redis`|
