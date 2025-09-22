@@ -27,7 +27,8 @@
 |ETC     |`Figma` `Notion`|
 
 ## 🏛️ 아키텍쳐
-<img width="4068" alt="아키텍쳐" src="https://github.com/user-attachments/assets/e7ed6bd4-036e-4164-ab0c-e486ffbe153d">
+<img width="15018" height="11756" alt="Frame 168" src="https://github.com/user-attachments/assets/85b1f951-b247-440d-a4d3-c98c55806680" />
+
 
 ## 🌟 서비스 기능
 ### 약 일정 관리 및 기록
